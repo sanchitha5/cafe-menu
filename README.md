@@ -11,11 +11,6 @@ A simple HTML and CSS project that showcases the menu for the fictional **Camper
 - **HTML5** for the structure of the webpage.
 - **CSS** for the styling (linked via an external CSS file).
 
-
-## Demo
-
-[View the Live Demo](https://sanchitha5.github.io/cafe-menu/)
-
 ## Usage
 Clone the repository:
 bash
