@@ -15,7 +15,7 @@ A simple HTML and CSS project that showcases the menu for the fictional **Camper
 Clone the repository:
 bash
 Copy code
-- git clone https://github.com/your-username/camper-cafe-menu.git
+- git clone https://github.com/sanchitha5/camper-cafe-menu.git
 cd camper-cafe-menu.
 - Open index.html in a web browser to view the menu.
 
